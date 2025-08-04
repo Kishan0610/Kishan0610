@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on building web applications using Python, Django, and React.  <br><br>🤝 I'm looking to collaborate on open-source projects, SaaS applications, and AI-powered tools.  <br><br>🛠️ I'm looking for help with optimizing large-scale web applications and improving system performance.  <br><br>🌱 I'm currently learning advanced backend development, API integrations, and real-time communication using WebSockets.  <br><br>💬 Ask me about Django, Python, APIs, databases, and full-stack development.  <br><br>⚡ Fun fact: I love exploring new technologies and automating repetitive tasks to improve efficiency.
+🚀 I'm currently working on building web applications using Python, Django, and React.  <br><br>🌱 I'm currently learning advanced backend development, API integrations, and real-time communication using WebSockets.  <br><br>💬 Ask me about Django, Python, APIs, databases, and full-stack development.  <br><br>⚡ Fun fact: I love exploring new technologies and automating repetitive tasks to improve efficiency.
 
 
 ## 🌐 Socials:
